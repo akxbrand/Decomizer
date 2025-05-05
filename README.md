@@ -1,4 +1,4 @@
-# AKX Brand E-commerce Platform
+# DECOMIZER E-commerce Platform
 
 A modern, full-stack e-commerce platform built with Next.js 15.1.7, featuring a robust admin dashboard, secure user authentication, and seamless payment integration with Razorpay.
 

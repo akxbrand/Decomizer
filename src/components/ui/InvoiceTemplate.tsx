@@ -56,7 +56,7 @@ const InvoiceTemplate: React.FC<InvoiceTemplateProps> = ({ order }) => {
             />
           </div>
           <div className="text-gray-600 text-sm">
-            <p>AKX Brand, Matta Chowk,</p>
+            <p>DECOMIZER, Matta Chowk,</p>
             <p>Panipat, Haryana - 132103, India</p>
             <p className="mt-2">+91 9034366104</p>
             <p>akxbrand@gmail.com</p>
@@ -185,7 +185,7 @@ const InvoiceTemplate: React.FC<InvoiceTemplateProps> = ({ order }) => {
           </div>
         </div>
         <div className="text-center text-gray-500 text-sm border-t border-gray-200 pt-6">
-          <p className="font-medium text-gray-700">Thank you for shopping with AKX Brand!</p>
+          <p className="font-medium text-gray-700">Thank you for shopping with DECOMIZER!</p>
           <p className="mt-2">For any queries, please contact us at akxbrand@gmail.com</p>
           <p className="mt-1">© {new Date().getFullYear()} AKX brand. All rights reserved.</p>
         </div>

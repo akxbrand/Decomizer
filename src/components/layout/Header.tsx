@@ -87,11 +87,11 @@ export default function Header({ onMobileMenuClick }: HeaderProps) {
               href="/"
               className="text-xl font-bold text-gray-900 hover:text-gray-700 transition-colors duration-200"
             >
-              {/* AKX Brand */}
+              {/* DECOMIZER */}
               <Image
-                src="/images/brand-logo.png"
-                alt="AKX Brand Logo"
-                width={90}
+                src="/images/new-logo.png"
+                alt="DECOMIZER Logo"
+                width={80}
                 height={80}
                 className="flex items-center justify-center"
               />

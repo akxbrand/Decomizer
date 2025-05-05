@@ -9,14 +9,14 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | AKX Brand',
-    default: 'AKX Brand - Here Style Meets Comfort',
+    template: '%s | DECOMIZER',
+    default: 'DECOMIZER - Here Style Meets Comfort',
   },
-  description: 'Discover luxury bedding solutions at AKX Brand. We offer premium quality bedsheets, comforters, and bedding accessories for your perfect night\'s sleep.',
-  keywords: ['bedding', 'luxury bedding', 'bedsheets', 'comforters', 'home decor', 'AKX Brand'],
-  authors: [{ name: 'AKX Brand' }],
-  creator: 'AKX Brand',
-  publisher: 'AKX Brand',
+  description: 'Discover luxury bedding solutions at DECOMIZER. We offer premium quality bedsheets, comforters, and bedding accessories for your perfect night\'s sleep.',
+  keywords: ['bedding', 'luxury bedding', 'bedsheets', 'comforters', 'home decor', 'DECOMIZER','Decomizer bedsheets','Decomizer comforters','Decomizer bedding accessories','luxury bedding products','luxury bedding accessories','luxury bedding solutions','Decomizer comforter set','Decomizer Fitted Bedsheets','Decomizer Elastic Fitted Bedsheets'],
+  authors: [{ name: 'DECOMIZER' }],
+  creator: 'DECOMIZER',
+  publisher: 'DECOMIZER',
   icons: {
     icon: [{ url: '/images/brand-logo.png', sizes: '32x32', type: 'image/png' }],
     shortcut: [{ url: '/images/brand-logo.png', sizes: '16x16', type: 'image/png' }],

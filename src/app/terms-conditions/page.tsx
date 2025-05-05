@@ -3,9 +3,9 @@ import Layout from '@/components/layout/Layout';
 
 // Metadata for SEO
 export const metadata = {
-  title: 'Terms & Conditions | AKX Brand - Premium Bedding & Home Essentials',
-  description: 'Read our terms and conditions to understand your rights and responsibilities when using AKX Brand\'s services and purchasing our products.',
-  keywords: 'terms and conditions, user agreement, shopping terms, AKX Brand terms, purchase agreement'
+  title: 'Terms & Conditions | DECOMIZER - Premium Bedding & Home Essentials',
+  description: 'Read our terms and conditions to understand your rights and responsibilities when using DECOMIZER\'s services and purchasing our products.',
+  keywords: 'terms and conditions, user agreement, shopping terms, DECOMIZER terms, purchase agreement'
 };
 
 export default function TermsAndConditions() {
@@ -32,7 +32,7 @@ export default function TermsAndConditions() {
               <h2 className="text-2xl font-semibold mb-4 text-gray-900">Overview</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="text-gray-600 mb-4">
-                  Throughout the site, the terms "we", "us" and "our" refer to "AKXBrand". "AKXBrand" offers this website, including all information, tools and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+                  Throughout the site, the terms "we", "us" and "our" refer to "DECOMIZER". "DECOMIZER" offers this website, including all information, tools and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
                 </p>
                 <p className="text-gray-600 mb-4">
                   By visiting our site and/or purchasing something from us, you engage in our "Service" and agree to be bound by the following terms and conditions ("Terms of Service", "Terms"), including those additional terms and conditions and policies referenced herein and/or available. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/or contributors of content.
@@ -234,7 +234,7 @@ export default function TermsAndConditions() {
                   You expressly agree that your use of, or inability to use, the Service is at your sole risk. The Service and all products and Services delivered to you through the Service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.
                 </p>
                 <p className="text-gray-600">
-                  In no case shall AKXBrand, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, Service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the Service or any products procured using the Service, or for any other claim related in any way to your use of the Service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the Service or any content (or product) posted, transmitted, or otherwise made available via the Service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.
+                  In no case shall DECOMIZER, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, Service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the Service or any products procured using the Service, or for any other claim related in any way to your use of the Service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the Service or any content (or product) posted, transmitted, or otherwise made available via the Service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.
                 </p>
               </div>
             </section>
@@ -244,7 +244,7 @@ export default function TermsAndConditions() {
               <h2 className="text-2xl font-semibold mb-4 text-gray-900">Section 14 - Indemnification</h2>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="text-gray-600">
-                  You agree to indemnify, defend and hold harmless AKXBrand and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, Service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
+                  You agree to indemnify, defend and hold harmless DECOMIZER and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, Service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
                 </p>
               </div>
             </section>
@@ -323,7 +323,7 @@ export default function TermsAndConditions() {
                 </p>
                 <div className="text-gray-600">
                   <p>Our contact information is posted below:</p>
-                  <p className="mt-2">AKX Brand</p>
+                  <p className="mt-2">DECOMIZER</p>
                   <p> <a href="mailto:akxbrand@gmail.com">akxbrand@gmail.com</a></p>
                   <p>3310, Matta Chowk, Panipat</p>
                   <p><a href="tel:+919034366104">+919034366104</a></p>

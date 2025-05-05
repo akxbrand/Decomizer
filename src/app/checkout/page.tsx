@@ -365,7 +365,7 @@ export default function CheckoutPage() {
         amount: orderData.amount,
         currency: orderData.currency,
         image: '/images/brand-logo.png',
-        name: 'AKX Brand',
+        name: 'DECOMIZER',
         theme: {
           color: '#3B82F6'
         },

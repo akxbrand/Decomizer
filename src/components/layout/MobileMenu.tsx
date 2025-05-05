@@ -112,10 +112,10 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
               className="text-2xl font-bold text-gray-900 transform transition hover:scale-105"
               onClick={onClose}
             >
-              {/* AKX Brand */}
+              {/* DECOMIZER */}
               <Image
                 src="/images/brand-logo.png"
-                alt="AKX Brand"
+                alt="DECOMIZER"
                 width={90}
                 height={90}
                 className="flex items-center justify-center"

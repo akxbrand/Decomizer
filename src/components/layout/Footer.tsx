@@ -49,11 +49,10 @@ export default function Footer() {
               className="lg:inline-block mb-4  flex justify-center"
             >
               <Image
-                src="/images/brand-logo.png"
-                alt="AKX Brand Logo"
+                src="/images/main-logo.png"
+                alt="DECOMIZER Logo"
                 width={180}
                 height={60}
-                className="filter invert"
               />
             </Link>
             <p className="text-gray-300 text-sm leading-relaxed">
@@ -143,7 +142,7 @@ export default function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">Contact</h3>
             <div className="space-y-2 text-sm">
-              <p className="text-gray-300">AKX Brand, Matta Chowk,</p>
+              <p className="text-gray-300">DECOMIZER, Matta Chowk,</p>
               <p className="text-gray-300">Panipat, Haryana - 132103</p>
               <p className="text-gray-300 hover:text-white transition-colors duration-200">
                 <a href="mailto:akxbrand@gmail.com">akxbrand@gmail.com</a>
@@ -156,7 +155,7 @@ export default function Footer() {
         {/* Newsletter Section */}
         <div className="border-t border-gray-700 pt-8 pb-4">
           <div className="max-w-md mx-auto text-center">
-            <h3 className="text-lg font-semibold mb-3">Stay Connected with AKX Brand</h3>
+            <h3 className="text-lg font-semibold mb-3">Stay Connected with DECOMIZER</h3>
             <p className="text-gray-300 text-sm mb-4">
               Subscribe to our newsletter for exclusive offers, new arrivals, and insider updates.
             </p>
@@ -187,7 +186,7 @@ export default function Footer() {
         {/* Social Links & Copyright */}
         <div className="flex flex-col-reverse sm:flex-row justify-between items-center space-y-4 space-y-reverse sm:space-y-0 mt-8">
           <p className="text-gray-400 text-sm text-center sm:text-left">
-            © {new Date().getFullYear()} AKX Brand. All rights reserved.
+            © {new Date().getFullYear()} DECOMIZER. All rights reserved.
           </p>
           <div className="flex justify-center space-x-6">
             <a href="https://facebook.com/profile.php?id=61574944210057" className="text-gray-400 hover:text-white transition-colors duration-200">

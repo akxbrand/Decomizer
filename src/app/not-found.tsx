@@ -103,7 +103,7 @@ export default function NotFound() {
               </div>
               <div className="relative flex justify-center">
                 <span className="px-4 bg-gray-50 text-sm text-gray-500">
-                  AKX Brand
+                  DECOMIZER
                 </span>
               </div>
             </div>

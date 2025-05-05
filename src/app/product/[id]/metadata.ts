@@ -39,7 +39,7 @@ export async function generateMetadata(
 
   if (!product) {
     return {
-      title: 'Product Not Found - AKX Brand',
+      title: 'Product Not Found - DECOMIZER',
       description: 'The requested product could not be found.'
     };
   }
@@ -47,7 +47,7 @@ export async function generateMetadata(
   const averageRating = calculateAverageRating(product.reviews);
   const productPrice = product.price.toFixed(2);
   const productName = product.name;
-  const brandName = 'AKX Brand';
+  const brandName = 'DECOMIZER';
   const productUrl = `https://akxbrand.com/product/${product.id}`;
   const productImage = product.images[0] || '';
   

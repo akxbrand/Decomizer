@@ -44,13 +44,13 @@ const NewInvoiceTemplate: React.FC<NewInvoiceTemplateProps> = ({ order }) => {
           <div className="relative w-24 h-24">
             <Image
               src="/images/brand-logo.png"
-              alt="AKX Brand Logo"
+              alt="DECOMIZER Logo"
               fill
               className="object-contain"
             />
           </div>
           <div className="text-gray-600">
-            <p className="text-sm">AKX Brand, Matta Chowk</p>
+            <p className="text-sm">DECOMIZER, Matta Chowk</p>
             <p className="text-sm">Panipat, Haryana </p>
             <p className="text-sm">132103, India</p>
             <p className="text-sm mt-2">GSTIN: 06BPQPR1739P1ZZ</p>
@@ -175,7 +175,7 @@ const NewInvoiceTemplate: React.FC<NewInvoiceTemplateProps> = ({ order }) => {
       {/* Footer */}
       <div className="text-center border-t border-gray-100 pt-2 print:pt-2 print:mt-4 print:break-inside-avoid">
         <div className="max-w-sm mx-auto">
-          <p className="text-sm font-medium text-gray-900">Thank you for shopping with AKX Brand!</p>
+          <p className="text-sm font-medium text-gray-900">Thank you for shopping with DECOMIZER!</p>
           <p className="text-sm text-gray-600 mt-1">For any queries, please contact us at</p>
           <p className="text-sm text-blue-600 break-words">akxbrand@gmail.com</p>
         </div>

@@ -403,7 +403,7 @@ export default function Home() {
                             </div>
                           )}
                           <Image
-                            src={product.images[0] || '/images/brand-logo.png'}
+                            src={product.images[0] || '/images/new-logo.png'}
                             alt={product.name}
                             fill
                             className="object-cover"

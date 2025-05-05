@@ -126,7 +126,7 @@ export async function POST(request: Request) {
           
           <div style="background-color: #f8f9fa; padding: 20px; text-align: center; border-radius: 0 0 8px 8px; border-top: 1px solid #e9ecef;">
             <p style="color: #6c757d; font-size: 12px; margin: 0;">
-              This email was sent from the Bulk Order form on AKX Brand website.
+              This email was sent from the Bulk Order form on DECOMIZER website.
             </p>
           </div>
         </div>

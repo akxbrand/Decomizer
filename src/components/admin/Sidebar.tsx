@@ -116,8 +116,8 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
       >
       <div className="flex items-center space-x-2 px-2 py-2 border-b border-gray-100 items-center justify-center sticky top-0 bg-white z-10">
         <Image
-          src="/images/brand-logo.png"
-          alt="AKX Brand Logo"
+          src="/images/new-logo.png"
+          alt="DECOMIZER Logo"
           width={110}
           height={100}
           className="flex items-center justify-center"
