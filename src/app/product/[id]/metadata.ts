@@ -48,14 +48,14 @@ export async function generateMetadata(
   const productPrice = product.price.toFixed(2);
   const productName = product.name;
   const brandName = 'DECOMIZER';
-  const productUrl = `https://akxbrand.com/product/${product.id}`;
+  const productUrl = `https://decomizer.com/product/${product.id}`;
   const productImage = product.images[0] || '';
   
   // Construct breadcrumb structure
   const breadcrumb = [
-    { name: brandName, item: 'https://akxbrand.com' },
-    { name: product.category.name, item: `https://akxbrand.com/shop?category=${product.category.name}` },
-    ...(product.subCategory ? [{ name: product.subCategory.name, item: `https://akxbrand.com/shop?subcategory=${product.subCategory.name}` }] : []),
+    { name: brandName, item: 'https://decomizer.com' },
+    { name: product.category.name, item: `https://decomizer.com/shop?category=${product.category.name}` },
+    ...(product.subCategory ? [{ name: product.subCategory.name, item: `https://decomizer.com/shop?subcategory=${product.subCategory.name}` }] : []),
     { name: productName, item: productUrl }
   ];
 

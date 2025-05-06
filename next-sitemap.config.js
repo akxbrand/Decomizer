@@ -1,6 +1,6 @@
 // // next-sitemap.config.js
 // module.exports = {
-//     siteUrl: 'https://akxbrand.com', // your live domain
+//     siteUrl: 'https://decomizer.com', // your live domain
 //     generateRobotsTxt: true, // generates robots.txt file
 // };
   /** @type {import('next-sitemap').IConfig} */

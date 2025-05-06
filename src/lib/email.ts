@@ -88,7 +88,7 @@ export const sendOrderConfirmationEmail = async (data: OrderEmailData) => {
     html: `
       <div style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
         <div style="background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%); padding: 30px 20px; border-radius: 8px 8px 0 0; text-align: center;">
-          <img src="https://akxbrand.com/images/brand-logo.png" alt="DECOMIZER" style="height: 60px; margin-bottom: 20px;">
+          <img src="https://decomizer.com/images/brand-logo.png" alt="DECOMIZER" style="height: 60px; margin-bottom: 20px;">
           <h1 style="color: #ffffff; margin: 0; font-size: 24px; font-weight: 600;">Order Confirmation</h1>
         </div>
 
@@ -133,7 +133,7 @@ export const sendOrderConfirmationEmail = async (data: OrderEmailData) => {
             <p style="color: #6c757d; margin: 5px 0;">Phone: +91 9034366104</p>
             <p style="color: #6c757d; margin: 5px 0;">DECOMIZER, Matta Chowk, Panipat, Haryana, PinCode - 132103</p>
           </div>
-          <a href="https://akxbrand.com" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: 500;">Visit our website</a>
+          <a href="https://decomizer.com" style="display: inline-block; padding: 10px 20px; background-color: #3498db; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: 500;">Visit our website</a>
         </div>
       </div>
     `,
