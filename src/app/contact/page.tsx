@@ -89,7 +89,7 @@ export default function Contact() {
               </div>
               <h3 className="text-lg font-semibold mb-2 text-gray-800">Email Us</h3>
               <p className="text-gray-600 mb-2">Send us your queries anytime</p>
-              <p className="text-gray-700">akxbrand@gmail.com</p>
+              <p className="text-gray-700">beddingproductinfo@gmail.com</p>
             </div>
 
             {/* Visit Our Store */}
