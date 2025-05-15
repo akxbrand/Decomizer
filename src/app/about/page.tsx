@@ -111,7 +111,7 @@ const About = () => {
           </div>
 
           {/* Parent Company Section */}
-          <div className="mb-24 bg-gray-50 py-16 px-4">
+          {/* <div className="mb-24 bg-gray-50 py-16 px-4">
             <div className="max-w-4xl mx-auto text-center">
               <h2 className="text-2xl font-semibold mb-8">Part of AKX Brand</h2>
               <div className="mb-8">
@@ -130,7 +130,7 @@ const About = () => {
                 The synergy between DECOMIZER and AKX Brand allows us to leverage advanced manufacturing capabilities, sustainable practices, and innovative designs to create products that transform your living spaces.
               </p>
             </div>
-          </div>
+          </div>*/}
 
           {/* Closing Statement */}
           <div className="text-center max-w-3xl mx-auto">
