@@ -62,7 +62,8 @@ export default function ReturnPolicy() {
               <div className="bg-gray-50 p-6 rounded-lg space-y-4">
                 <ul className="list-disc list-inside text-gray-600">
                   <li>Contact us within 48 hours of delivery</li>
-                  <li>For any additional information connect with us on WhatsApp +919034366104 or email</li>
+{/*                   <li>For any additional information connect with us on WhatsApp +919034366104 or email</li> */}
+                  <li>For any additional information connect with us on email - beddingproductinfo@gmail.com </li>
                   <li>Provide photos of the packed product within the same working day of the return request</li>
                   <li>Without images, return requests will not be accepted</li>
                   <li>Provide photos and an unboxing video for damage/wrong product claims</li>
