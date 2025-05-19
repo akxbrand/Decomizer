@@ -75,7 +75,7 @@ export default function Contact() {
               </div>
               <h3 className="text-lg font-semibold mb-2 text-gray-800">Customer Support</h3>
               <p className="text-gray-600 mb-2">Need help? Our team is available 24/7</p>
-              <p className="text-gray-700">+91 9034366104</p>
+{/*               <p className="text-gray-700">+91 9034366104</p> */}
             </div>
 
             {/* Email Us */}
@@ -103,7 +103,7 @@ export default function Contact() {
                 </div>
               </div>
               <h3 className="text-lg font-semibold mb-2 text-gray-800">Visit Our Store</h3>
-              <p className="text-gray-600 mb-2">DECOMIZER, Matta Chowk,</p>
+              <p className="text-gray-600 mb-2">DECOMIZER,</p>
               <p className="text-gray-700">Panipat, Haryana - 132103</p>
             </div>
           </div>
