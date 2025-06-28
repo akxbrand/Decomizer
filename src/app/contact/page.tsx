@@ -104,7 +104,7 @@ export default function Contact() {
               </div>
               <h3 className="text-lg font-semibold mb-2 text-gray-800">Visit Our Store</h3>
               <p className="text-gray-600 mb-2">DECOMIZER,</p>
-              <p className="text-gray-700">Delhi, Haryana - 132103</p>
+              <p className="text-gray-700">Delhi</p>
             </div>
           </div>
         </div>
