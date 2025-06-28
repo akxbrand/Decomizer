@@ -143,7 +143,7 @@ export default function Footer() {
             <h3 className="text-lg font-semibold">Contact</h3>
             <div className="space-y-2 text-sm">
               <p className="text-gray-300">DECOMIZER,</p>
-              <p className="text-gray-300">Delhi, Haryana - 132103</p>
+              <p className="text-gray-300">Delhi</p>
               <p className="text-gray-300 hover:text-white transition-colors duration-200">
                 <a href="mailto:beddingproductinfo@gmail.com">beddingproductinfo@gmail.com</a>
               </p>
